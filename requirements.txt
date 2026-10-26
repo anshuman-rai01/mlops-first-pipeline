@@ -4,3 +4,4 @@ uvicorn
 joblib
 pydantic
 httpx 
+pytest
